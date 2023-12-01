@@ -1,0 +1,67 @@
+[
+  {
+    "name": "케냐",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427451/CoffeeCountry/Flag/kenia_l4m8jb.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428493/CoffeeCountry/Flaver%20and%20Beans/%E1%84%8C%E1%85%A1%E1%84%86%E1%85%A9%E1%86%BC_ehqdn0.png",
+    "tasteName": "Orange",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427400/CoffeeCountry/Flaver%20and%20Beans/light_k7fdh1.png",
+    "beansName" : "light"
+  },
+  {
+    "name": "브라질",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427382/CoffeeCountry/Flag/pngwing.com_rww2ap.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428044/CoffeeCountry/Flaver%20and%20Beans/%E1%84%87%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AF%E1%84%86%E1%85%A1%E1%86%BA_k18wg4.png",
+    "tasteName": "Chocolate & Vanilla",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427400/CoffeeCountry/Flaver%20and%20Beans/light_k7fdh1.png",
+    "beansName" : "light" 
+  },
+  {
+    "name": "멕시코",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427381/CoffeeCountry/Flag/maxico_d6a3t5.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428044/CoffeeCountry/Flaver%20and%20Beans/%E1%84%86%E1%85%A6%E1%86%A8%E1%84%89%E1%85%B5%E1%84%8F%E1%85%A9%E1%84%86%E1%85%A1%E1%86%BA_q9khrm.png",
+    "tasteName": "Lemon",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427399/CoffeeCountry/Flaver%20and%20Beans/medium_sd9ij3.png",
+    "beansName" : "medium"
+  },
+  {
+    "name": "콜롬비아",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427381/CoffeeCountry/Flag/colombia_arjlkv.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428043/CoffeeCountry/Flaver%20and%20Beans/%E1%84%8F%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%86%E1%85%A1%E1%86%BA%E1%84%8F%E1%85%AE%E1%84%87%E1%85%A1%E1%84%86%E1%85%A1%E1%86%BA_aaszle.png",
+    "tasteName": "Caramel & Apple",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427399/CoffeeCountry/Flaver%20and%20Beans/medium_sd9ij3.png",
+    "beansName" : "medium"
+  },
+  {
+    "name": "구테말라",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427381/CoffeeCountry/Flag/guatemala_ezdjc8.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428043/CoffeeCountry/Flaver%20and%20Beans/%E1%84%80%E1%85%AE%E1%84%90%E1%85%A6%E1%84%86%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A1%E1%84%86%E1%85%A1%E1%86%BA_wboo4t.png",
+    "tasteName": "Honey",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427399/CoffeeCountry/Flaver%20and%20Beans/medium_sd9ij3.png" ,
+    "beansName" : "medium"
+  },
+  {
+    "name": "인도",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427380/CoffeeCountry/Flag/india_kcf6c5.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428043/CoffeeCountry/Flaver%20and%20Beans/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A9%E1%84%86%E1%85%A1%E1%86%BA_he37mw.png",
+    "tasteName": "spice",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427399/CoffeeCountry/Flaver%20and%20Beans/medium_sd9ij3.png",
+    "beansName" : "medium"
+  },
+  {
+    "name": "베트남",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427380/CoffeeCountry/Flag/vietnam_wg97dz.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428044/CoffeeCountry/Flaver%20and%20Beans/%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7%E1%84%86%E1%85%A1%E1%86%BA_bqbnke.png",
+    "tasteName": "Nuts",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427399/CoffeeCountry/Flaver%20and%20Beans/dark_kmjtzq.png",
+    "beansName" : "dark"
+
+  },
+  {
+    "name": "쿠바",
+    "country": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427380/CoffeeCountry/Flag/cuba_rrilkj.png",
+    "taste": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699428043/CoffeeCountry/Flaver%20and%20Beans/%E1%84%8F%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A9%E1%86%B7%E1%84%87%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%86%E1%85%A1%E1%86%BA%E1%84%8F%E1%85%AE%E1%84%87%E1%85%A1%E1%84%86%E1%85%A1%E1%86%BA_aaszle.png",
+    "tasteName": "Caramel & Apple",
+    "baens": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1699427399/CoffeeCountry/Flaver%20and%20Beans/dark_kmjtzq.png",
+    "beansName" : "dark"
+  }
+]

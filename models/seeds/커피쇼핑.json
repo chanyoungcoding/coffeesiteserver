@@ -1,0 +1,38 @@
+[
+  {
+    "coffeeNumber" : 1,
+    "name" : "동진시장 블렌드",
+    "price" : 15000,
+    "imgurl": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1698762932/CoffeeShop/3D6AF8E0-A2D8-4671-9872-7A2AD7C6E843_jqbpdw.jpg"
+  },
+  {
+    "coffeeNumber" : 2,
+    "name":"울서울서울서",
+    "price": 24000,
+    "imgurl": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1698762931/CoffeeShop/03B1BF4D-4646-43CB-8ED3-7190ABEEE0F9_rh7zm3.jpg"
+  },
+  {
+    "coffeeNumber" : 3,
+    "name": "배드블러드",
+    "price": 19000,
+    "imgurl":"https://res.cloudinary.com/dnjjlp2uy/image/upload/v1698762932/CoffeeShop/19B9DC2F-9453-4EB2-B2E7-292A173EAC13_cho5by.jpg"
+  },
+  {
+    "coffeeNumber" : 4,
+    "name": "나이트호크",
+    "price": 30000,
+    "imgurl": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1698762932/CoffeeShop/582B2A4F-EEED-407E-9C0E-1EE1F941D94C_pvx9ov.jpg"
+  },
+  {
+    "coffeeNumber" : 5,
+    "name": "블랙커피",
+    "price": 16000,
+    "imgurl": "https://res.cloudinary.com/dnjjlp2uy/image/upload/v1698762932/CoffeeShop/0B1EDCD7-E73E-49F9-8F4B-AB5E16ACD4DB_m8sv7e.png"
+  },
+  {
+    "coffeeNumber" : 6,
+    "name": "친환경포장용기",
+    "price": 4000,
+    "imgurl":"https://res.cloudinary.com/dnjjlp2uy/image/upload/v1698762932/CoffeeShop/157FB8A5-E56B-4CE5-AC17-151E9267602D_txy9im.png"
+  }
+]
