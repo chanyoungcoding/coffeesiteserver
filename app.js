@@ -28,6 +28,10 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.get('/', async(req,res) => {
+  res.send('success')
+})
+
 app.get('/api/coffee', async (req,res) => {
   const coffee = await Coffee.find({});
   res.json(coffee);
