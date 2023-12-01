@@ -216,7 +216,7 @@ app.patch('/api/updateBasketCount', async (req, res) => {
 
 
 
-app.listen(process.env.PORT, () => {
+app.listen(process.env.PORT || 4000, () => {
   console.log('서버 실행')
 })
 
