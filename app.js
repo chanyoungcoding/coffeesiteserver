@@ -29,7 +29,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get('/', async(req,res) => {
-  res.send('success')
+  const coffee = await Coffee.find({});
+  res.send(coffee)
 })
 
 app.get('/api/coffee', async (req,res) => {
